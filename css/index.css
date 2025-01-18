@@ -3,6 +3,10 @@
 body{
     margin: 0;
     font-family: 'Lato', sans-serif !important;
+    padding: 0;
+    overflow:hidden;
+    overflow-y:auto;
+    overflow-x:hidden;
 }
 
 div{
